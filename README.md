@@ -11,6 +11,6 @@ That we use when we start our browther
 5. is enter
 6. npm May project Name
 ----------------------------------------------------------
-when we install SASS
-7. npm i sass 
+when we install SASS, have to use this
+ npm i sass 
 ----------------------------------------------------------
